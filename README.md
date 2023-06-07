@@ -1,1 +1,1 @@
-# movie_recommender
+# Django based movie recommender system
